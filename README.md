@@ -6,7 +6,7 @@
 
 1. Git Repo Management
 2. Project Management
-3. CI/CD
+3. CI(Continuous Integration)/CD(Continuous Deployment)
 
 ## Github vs Gitlab
 
