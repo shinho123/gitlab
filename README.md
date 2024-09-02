@@ -1,4 +1,4 @@
-# gitlab
+# Gitlab
 
 ## Github vs Gitlab
 
